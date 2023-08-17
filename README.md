@@ -1,32 +1,33 @@
-<h1 align="center">Joguinho Duck Hunt</h1>
+# Joguinho Duck Hunt
 
-<p align="center">
-  https://joguinhoduckhunt.vercel.app/
-</p>
+![Joguinho Duck Hunt](https://meusjoguinhos.vercel.app/img/JoguinhoDuckHunt.png)
 
-<p align="center">
-  <strong>Uma implementação de Duck Hunt em HTML5 e ES2015.</strong>
-</p>
+Bem-vindo ao "Joguinho Duck Hunt", uma implementação do clássico jogo Duck Hunt em HTML5 e ES2015!
 
-<p align="center">
-  <a href="#sobre-o-jogo">Sobre o Jogo</a> •
-  <a href="#como-jogar">Como Jogar</a> •
-  <a href="#autor">Autor</a> •
-  <a href="#licença">Licença</a>
-</p>
+## Visão Geral
 
-## Sobre o Jogo
-
-O "Joguinho Duck Hunt" é uma versão web baseada e responsiva do clássico jogo Duck Hunt. O objetivo do jogo é acertar os patos que aparecem na tela para marcar pontos. O jogo é construído em HTML5 e utiliza a linguagem ES2015 (JavaScript moderno).
+O "Joguinho Duck Hunt" é uma versão web e responsiva do jogo Duck Hunt, onde os jogadores têm o desafio de atirar em patos que voam pelo cenário. Este jogo é uma homenagem ao clássico Duck Hunt e foi desenvolvido utilizando tecnologias web modernas.
 
 ## Como Jogar
 
-1. Abra o arquivo `index.html` em um navegador da web.
-2. Na tela de jogo, você controlará uma mira para atirar nos patos que aparecerem.
-3. Clique ou toque na tela onde deseja atirar.
-4. Acerte os patos para marcar pontos.
-5. O jogo pode ter regras adicionais específicas. Consulte as instruções no próprio jogo, se houver.
+1. Acesse o jogo através do seguinte link: [Joguinho Duck Hunt](https://joguinhoduckhunt.vercel.app/).
+2. Utilize o mouse para mirar e atirar nos patos que voam pelo cenário.
+3. Tente acertar o maior número de patos possível para acumular pontos.
+4. O jogo pode ter diferentes níveis de dificuldade à medida que você avança.
+5. Teste suas habilidades de mira e reflexos enquanto se diverte!
 
----
+## Tecnologias Utilizadas
 
-Este projeto foi criado com o intuito de recriar a experiência do jogo Duck Hunt e oferecer uma experiência divertida para os jogadores. Sinta-se à vontade para explorar, modificar e compartilhar este projeto com outras pessoas! Divirta-se jogando e revivendo a nostalgia do "Joguinho Duck Hunt". Se você tiver alguma dúvida ou feedback, não hesite em nos contatar. Divirta-se!
+-   HTML5
+-   ES2015 (JavaScript)
+-   CSS
+
+## Como Contribuir
+
+Se você deseja contribuir para este projeto, siga os passos abaixo:
+
+1. Faça um fork deste repositório.
+2. Clone o seu fork para o seu ambiente local.
+3. Faça as modificações desejadas.
+4. Faça um commit das suas alterações.
+5. Envie um pull request para este repositório.
